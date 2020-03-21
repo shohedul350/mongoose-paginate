@@ -2,9 +2,9 @@
 mongoose paginate using mongoose-paginate npm
 
 create .env file then set the database url like ATLAS_URI= 
-
-npm install cd client npm install cd ..
 Backend only
+npm install
+
 npm run server
 there are 2 api
 one is product uploading and another is product show
